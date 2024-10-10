@@ -4,10 +4,9 @@ Performed EDA on various dataset like car data, netflix data, weather data, udem
 # Learning :
 Had hands on Python and Python libraries like Pandas,Seaborn and Matplotlib. 
 Also, learn about 
-* pandas sorting,
-* renaming, updating, deleting columns
-* data cleaning, data visualization
-* filtering and merging.
+* pandas sorting, renaming, updating, deleting columns
+* data cleaning, data visualization, data aggregation
+* filtering and merging of data
 
 ## Analysis Files :
 |Project Name|Tech Stack | Analysis File | My Linkdln | My Github |
